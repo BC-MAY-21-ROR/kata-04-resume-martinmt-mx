@@ -55,9 +55,9 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Active Student of Software Engineering of Telematics School at Universidad de Colima. Passionate about software development and learning new technologies. More than 2 years of experience with programming languages.
-    I also have other hobbies such as playing video games, producing and playing music, making videos and live shows. 
-    My favorite band is Pink Floyd lmL 
+    <p> Active Student of Software Engineering of Telematics School at Universidad de Colima. Passionate about software development and learning new technologies. More than 2 years of experience with programming languages. </p>
+    <p> I also have other hobbies such as playing video games, producing and playing music, making videos and live shows. </p>
+    <p> My favorite band is Pink Floyd lmL </p>
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
