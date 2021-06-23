@@ -105,7 +105,13 @@ skills:
       level: 30%
       
     - name: Azure Cloud Services
-      level: 20%
+      level: 40%
+    
+    - name: Adobe Photoshop
+      level: 100%
+
+    - name: Adobe XD
+      level: 100%
 
 # NO MODIFICAR
 footer: >
